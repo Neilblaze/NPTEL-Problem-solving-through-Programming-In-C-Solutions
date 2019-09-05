@@ -11,6 +11,7 @@ following printf statement wherever and whichever is applicable.
 printf("%d is even.", number);
 printf("%d is odd.", number);
 
+Rest will remain same
 */
 if(number % 2 == 0)
         printf("%d is even.", number);
