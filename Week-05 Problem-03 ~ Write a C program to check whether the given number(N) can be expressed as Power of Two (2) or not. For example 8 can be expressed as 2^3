@@ -8,6 +8,8 @@ int main()
 Use the printf statements as below
 printf("\n%d is a number that can be expressed as power of 2.",N);
 printf("\n%d cannot be expressed as power of 2.",N);
+
+Just paste it as it is.
 */
     int T,f;
         
